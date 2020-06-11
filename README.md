@@ -1,10 +1,6 @@
 # Introduction
 
-## Test
-
-Test commit via github
-
-乌拉拉拉拉拉！
+以下为自动生成的readme。包含一些常用写法。
 
 ## Initial page
 
