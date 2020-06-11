@@ -34,6 +34,8 @@
 
 commit之后，如果是github repo的contributor，直接pull & push即可。如果不是，开一个pull request即可。github和gitbook关联似乎有时候会崩，之后继续研究。
 
+当然，也可以直接在github.com上在线编辑repo。直接点进markdown文件，点击右上角铅笔编辑即可；也可以用create new file新建文件；如果是repo的contributor可以直接commit，其他人commit时会自动发起一个pull request。
+
 （既然看到这里我默认大家都有github基础，就不详细介绍了……）
 
 ## 如何导出pdf文件

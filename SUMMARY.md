@@ -1,7 +1,8 @@
-# 目录
+# Table of contents
 
-* [前言](readme.md)
-* [目录](summary.md)
+* [Introduction](README.md)
+* [前言](qian-yan.md)
+* [目录](mu-lu.md)
 
 ## 指南使用方法
 
