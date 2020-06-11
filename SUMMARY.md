@@ -6,6 +6,7 @@
 
 * [阅读方法](zhi-nan-shi-yong-fang-fa/yue-du-fang-fa.md)
 * [写作方法](zhi-nan-shi-yong-fang-fa/xie-zuo-fang-fa.md)
+* [发布方法](zhi-nan-shi-yong-fang-fa/fa-bu-fang-fa.md)
 
 ## 乌拉拉！
 
