@@ -2,7 +2,11 @@
 
 * [Initial page](README.md)
 
+## 指南使用方法
+
+* [阅读方法](zhi-nan-shi-yong-fang-fa/yue-du-fang-fa.md)
+
 ## 乌拉拉！
 
-* [略略略](lue-lue-lue/lue-lue-lue.md)
+* [略略略](wu-la-la/lue-lue-lue.md)
 
