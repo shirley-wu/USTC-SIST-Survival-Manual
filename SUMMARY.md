@@ -11,7 +11,3 @@
 
 * [略略略](wu-la-la/lue-lue-lue.md)
 
-## 尝试使用gitbook
-
-* [test1](chang-shi-shi-yong-gitbook/test1.md)
-
