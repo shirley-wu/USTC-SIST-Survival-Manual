@@ -1,4 +1,4 @@
-# 合作方法
+# 写作方法
 
 **注：这部分内容是霁儿快速入门gitbook摸索出来的。很可能不全面 or 有很多错误，欢迎补充**
 
@@ -42,4 +42,6 @@ commit之后，如果是github repo的contributor，直接pull & push即可。�
 ## 如何导出pdf文件
 
 gitbook.com的右侧有一个大大的export as PDF。点击export as PDF - Entire space即可。
+
+TODO：gitbook.com默认的style有点丑。更改样式 or 本地build pdf file。
 
