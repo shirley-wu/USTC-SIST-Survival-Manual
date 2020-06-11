@@ -1,7 +1,6 @@
-# 目录
+# Table of contents
 
-* [前言](./)
-* [目录](summary.md)
+* [Introduction](README.md)
 
 ## 指南使用方法
 
