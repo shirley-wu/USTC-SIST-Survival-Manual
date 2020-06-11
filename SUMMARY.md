@@ -1,5 +1,6 @@
-* [前言](README.md)
+# Table of contents
 
+* [Introduction](README.md)
 * [目录](SUMMARY.md)
 
 ## 指南使用方法
@@ -10,8 +11,4 @@
 ## 乌拉拉！
 
 * [略略略](wu-la-la/lue-lue-lue.md)
-
-## 尝试使用gitbook
-
-* [test1](chang-shi-shi-yong-gitbook/test1.md)
 

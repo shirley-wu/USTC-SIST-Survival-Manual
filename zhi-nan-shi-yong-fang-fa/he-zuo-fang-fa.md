@@ -14,11 +14,11 @@
 6. 保存修改：在gitbook.com上作出任何修改后左下角会有一个大大的绿色Save。点击Save即保存
 7. 提交修改：保存修改后，左下角有一个紫色Merge。点击Merge即可，再访问用于阅读的网址就会有刚刚编辑的内容。
 
-![](../.gitbook/assets/form1.1.png) 
+![](../.gitbook/assets/form1.1.png)
 
 点击后成为：
 
- ![](../.gitbook/assets/form1.png) 
+![](../.gitbook/assets/form1.png)
 
 （小声说，gitbook.com比较容易卡，个人觉得编辑器不太人性化，而且不方便定制特性。
 
