@@ -27,7 +27,8 @@
 我们的github repo为[USTC-SIST-Survival-Manual](https://github.com/shirley-wu/USTC-SIST-Survival-Manual)。Gitbook仅支持两级目录。为了和gitbook.com在线编辑生成的文件保持一致，个人建议每个文件夹表示一个Group（即，一级目录。如文件夹`zhi-nan-shi-yong-fang-fa/`），一个文件表示一个Page（即，实际内容。如文件`zhi-nan-shi-yong-fang-fa/he-zuo-fang-fa.md`）。编辑方法：
 
 1. Clone github repo到本地
-2. 找到 or 新建markdown文件，并编辑。使用markdown语法。如果新建文件，需要将文件写入`SUMMARY.md`才能被gitbook追踪。`SUMMARY.md`中，二级标题（`##`）表示Group，列表（`*`）表示Page。TODO：研究一下能不能用多级列表。
+2. 找到 or 新建markdown文件，并编辑。使用markdown语法。如果新建文件，需要将文件写入`SUMMARY.md`才能被gitbook追踪。`SUMMARY.md`中，二级标题（`##`）表示Group，列表（`*`）表示Page。
+  * TODO：研究一下如何更好地个性化目录。
 3. git add，git commit
 4. Markdown编辑器推荐使用typora
 
@@ -35,3 +36,7 @@ commit之后，如果是github repo的contributor，直接pull & push即可。�
 
 （既然看到这里我默认大家都有github基础，就不详细介绍了……）
 
+## 如何导出pdf文件
+
+gitbook.com的右侧有一个大大的export as PDF。点击export as PDF - Entire space即可。
+ 
