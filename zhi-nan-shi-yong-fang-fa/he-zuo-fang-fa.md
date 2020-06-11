@@ -10,7 +10,11 @@
 2. 加入USTC Survival Manual contributor group。自行联系相关人员加入
 3. 进入书籍编辑页面 [https://app.gitbook.com/@ustc-sist-survival-manual/s/ustc/](https://app.gitbook.com/@ustc-sist-survival-manual/s/ustc/)，点击每个page即可开始编辑
 4. 新建内容：gitbook仅支持二级目录，新建文件夹点击New - New Group，新建文件点击New - New Page即可。
-5. 具体编辑：编辑大体使用markdown语法，也可以用图形界面配置文本格式。编辑左侧界面能够展开编辑文本格式，如下图；鼠标悬浮于光标处，或选择一段文本，可以看到其他文本格式配置方法。懒得放图。
+5. 具体编辑：编辑大体使用markdown语法，但用图形界面配置文本格式可能更方便。编辑左侧界面（v）展开能够展开编辑文本格式，如下图；鼠标悬浮于光标处，或选择一段文本，可以看到其他文本格式配置方法。懒得放图。
+
+![](../.gitbook/assets/form1.1.png) 
+
+点击后成为：
 
  ![](../.gitbook/assets/form1.png) 
 
