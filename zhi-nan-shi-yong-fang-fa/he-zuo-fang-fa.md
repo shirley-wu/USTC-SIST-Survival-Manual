@@ -2,7 +2,9 @@
 
 **注：这部分内容是霁儿快速入门gitbook摸索出来的。很可能不全面 or 有很多错误，欢迎补充**
 
-主要的合作方法有两种：在gitbook.com上在线编辑，和直接编辑源码在github.com上合作。
+主要的合作方法有两种：在gitbook.com上在线编辑，和直接编辑源码在github.com上合作。不是很建议在github上写作，因为gitbook.com的编辑如果和github冲突，会直接overwrite github的内容。
+
+不知道大家能否接受一起用github、一起写源代码、一起安装npm和gitbook library本地编译调试……？如果不能接受，还是老实用gitbook.com吧……
 
 ## 在gitbook.com在线编辑
 
