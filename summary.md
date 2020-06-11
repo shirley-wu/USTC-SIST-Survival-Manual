@@ -1,6 +1,6 @@
-# Table of contents
+# 目录
 
-* [前言](README.md)
+* [前言](./)
 * [目录](summary.md)
 
 ## 指南使用方法
@@ -11,6 +11,4 @@
 ## 乌拉拉！
 
 * [略略略](wu-la-la/lue-lue-lue.md)
-* [1](wu-la-la/1/README.md)
-  * [2](wu-la-la/1/2.md)
 
