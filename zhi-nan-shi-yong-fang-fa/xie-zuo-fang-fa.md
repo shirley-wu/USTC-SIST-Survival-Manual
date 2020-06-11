@@ -39,9 +39,3 @@ commit之后，如果是github repo的contributor，直接pull & push即可。�
 
 （既然看到这里我默认大家都有github基础，就不详细介绍了……）
 
-## 如何导出pdf文件
-
-gitbook.com的右侧有一个大大的export as PDF。点击export as PDF - Entire space即可。
-
-TODO：gitbook.com默认的style有点丑。更改样式 or 本地build pdf file。
-

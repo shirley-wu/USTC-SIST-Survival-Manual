@@ -1,27 +1,10 @@
 # Introduction
 
-以下为自动生成的readme。包含一些常用写法。
+并没有什么好introduce的。
 
-## Initial page
+偷懒.jpg
 
-### Getting Super Powers
+## 如何导出pdf文件
 
-Becoming a super hero is a fairly straight forward process:
-
-```text
-$ give me super-powers
-```
-
-{% hint style="info" %}
-Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+1. 在gitbook.comgitbook.com的右侧有一个大大的export as PDF。点击export as PDF - Entire space即可。
 
