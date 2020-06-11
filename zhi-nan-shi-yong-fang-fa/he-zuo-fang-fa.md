@@ -2,7 +2,7 @@
 
 **注：这部分内容是霁儿快速入门gitbook摸索出来的。很可能不全面 or 有很多错误，欢迎补充**
 
-主要的合作方法有两种：在gitbook.com上在线编辑，和直接编辑源码在github.com上合作。对于有git基础和markdown基础的contributor建议用github.com。
+主要的合作方法有两种：在gitbook.com上在线编辑，和直接编辑源码在github.com上合作。
 
 ## 在gitbook.com在线编辑
 
@@ -28,15 +28,15 @@
 
 1. Clone github repo到本地
 2. 找到 or 新建markdown文件，并编辑。使用markdown语法。如果新建文件，需要将文件写入`SUMMARY.md`才能被gitbook追踪。`SUMMARY.md`中，二级标题（`##`）表示Group，列表（`*`）表示Page。
-  * TODO：研究一下如何更好地个性化目录。
+   * TODO：研究一下如何更好地个性化目录。
 3. git add，git commit
 4. Markdown编辑器推荐使用typora
 
-commit之后，如果是github repo的contributor，直接pull & push即可。如果不是，开一个pull request即可。
+commit之后，如果是github repo的contributor，直接pull & push即可。如果不是，开一个pull request即可。github和gitbook关联似乎有时候会崩，之后继续研究。
 
 （既然看到这里我默认大家都有github基础，就不详细介绍了……）
 
 ## 如何导出pdf文件
 
 gitbook.com的右侧有一个大大的export as PDF。点击export as PDF - Entire space即可。
- 
+
