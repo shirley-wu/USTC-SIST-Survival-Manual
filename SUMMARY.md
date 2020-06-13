@@ -12,7 +12,7 @@
 
 * [序言](zhuan-ye-xuan-ze-yu-jie-shao/xu-yan.md)
 * [6系 电子工程与信息科学系](zhuan-ye-xuan-ze-yu-jie-shao/6-xi-dian-zi-gong-cheng-yu-xin-xi-ke-xue-xi.md)
-* [10系 自动化](zhuan-ye-xuan-ze-yu-jie-shao/10-xi-zi-dong-hua.md)
+* [10系 自动化系](zhuan-ye-xuan-ze-yu-jie-shao/10-xi-zi-dong-hua.md)
 * [23系 电子学与技术系](zhuan-ye-xuan-ze-yu-jie-shao/23-xi-dian-zi-xue-yu-ji-shu-xi.md)
 * [33系 信息安全系](zhuan-ye-xuan-ze-yu-jie-shao/33-xi-xin-xi-an-quan-xi.md)
 * [生物医学工程](zhuan-ye-xuan-ze-yu-jie-shao/sheng-wu-yi-xue-gong-cheng.md)
