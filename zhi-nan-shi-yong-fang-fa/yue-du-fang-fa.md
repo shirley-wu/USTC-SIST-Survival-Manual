@@ -1,3 +1,7 @@
+---
+description: by 霁儿
+---
+
 # 阅读方法
 
 本项目用gitbook（[https://www.gitbook.com/](https://www.gitbook.com/)）进行合作，并与github repo [USTC-SIST-Survival-Manual](https://github.com/shirley-wu/USTC-SIST-Survival-Manual)绑定。大家可以通过以下三种方式阅读：
