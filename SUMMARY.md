@@ -16,6 +16,7 @@
 * [23系 电子学与技术系](zhuan-ye-xuan-ze-yu-jie-shao/23-xi-dian-zi-xue-yu-ji-shu-xi.md)
 * [33系 信息安全系](zhuan-ye-xuan-ze-yu-jie-shao/33-xi-xin-xi-an-quan-xi.md)
 * [生物医学工程](zhuan-ye-xuan-ze-yu-jie-shao/sheng-wu-yi-xue-gong-cheng.md)
+* [人工智能班](zhuan-ye-xuan-ze-yu-jie-shao/ren-gong-zhi-neng-ban.md)
 
 ## 毕业出路
 
