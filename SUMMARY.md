@@ -28,6 +28,6 @@
 ## 大一至大四课程选择tips
 
 * [Chap1 选不到的茶与健康](da-yi-zhi-da-si-ke-cheng-xuan-ze-tips/di-yi-jie-xuan-bu-dao-de-cha-yu-jian-kang.md)
-* [可以疯狂作弊的超星尔雅慕课](da-yi-zhi-da-si-ke-cheng-xuan-ze-tips/ke-yi-feng-kuang-zuo-bi-de-chao-xing-er-ya-mu-ke.md)
 * [Chap2 gtmd大物实验](da-yi-zhi-da-si-ke-cheng-xuan-ze-tips/chap2-gtmd-da-wu-shi-yan.md)
+* [可以疯狂作弊的超星尔雅慕课](da-yi-zhi-da-si-ke-cheng-xuan-ze-tips/ke-yi-feng-kuang-zuo-bi-de-chao-xing-er-ya-mu-ke.md)
 
