@@ -15,6 +15,8 @@
     * [notegeek](bi-ye-chu-lu/chu-guo/gre-kao-shi-zhun-bei/notegeek.md)
     * [霁儿](bi-ye-chu-lu/chu-guo/gre-kao-shi-zhun-bei/ji-er.md)
     * [另一个投稿者](bi-ye-chu-lu/chu-guo/gre-kao-shi-zhun-bei/ling-yi-ge-tou-gao-zhe.md)
+* [保研](bi-ye-chu-lu/bao-yan.md)
+* [考研](bi-ye-chu-lu/kao-yan.md)
 * [工作](bi-ye-chu-lu/gong-zuo/README.md)
   * [前言](bi-ye-chu-lu/gong-zuo/qian-yan.md)
   * [实习的重要性](bi-ye-chu-lu/gong-zuo/shi-xi-de-zhong-yao-xing.md)
