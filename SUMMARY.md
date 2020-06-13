@@ -24,6 +24,7 @@
   * [招聘会与面试](gong-zuo/zhao-pin-hui-yu-mian-shi.md)
   * [合同签订](gong-zuo/he-tong-qian-ding.md)
   * [入职过程相关与入职后](gong-zuo/ru-zhi-guo-cheng-xiang-guan-yu-ru-zhi-hou.md)
+* [被富婆包养](bei-fu-po-bao-yang.md)
 
 ## 大一至大四课程选择tips
 
