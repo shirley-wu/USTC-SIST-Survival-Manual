@@ -15,4 +15,17 @@
     * [notegeek](bi-ye-chu-lu/chu-guo/gre-kao-shi-zhun-bei/notegeek.md)
     * [霁儿](bi-ye-chu-lu/chu-guo/gre-kao-shi-zhun-bei/ji-er.md)
     * [另一个投稿者](bi-ye-chu-lu/chu-guo/gre-kao-shi-zhun-bei/ling-yi-ge-tou-gao-zhe.md)
+* [工作](gong-zuo/README.md)
+  * [前言](gong-zuo/qian-yan.md)
+  * [实习的重要性](gong-zuo/shi-xi-de-zhong-yao-xing.md)
+  * [工作的选择](gong-zuo/gong-zuo-de-xuan-ze.md)
+  * [材料准备与简历投递](gong-zuo/cai-liao-zhun-bei-yu-jian-li-tou-di.md)
+  * [知识储备与笔试](gong-zuo/zhi-shi-chu-bei-yu-bi-shi.md)
+  * [招聘会与面试](gong-zuo/zhao-pin-hui-yu-mian-shi.md)
+  * [合同签订](gong-zuo/he-tong-qian-ding.md)
+  * [入职过程相关与入职后](gong-zuo/ru-zhi-guo-cheng-xiang-guan-yu-ru-zhi-hou.md)
+
+## 大一至大四课程选择tips
+
+* [第一节 选不到的茶与健康](da-yi-zhi-da-si-ke-cheng-xuan-ze-tips/di-yi-jie-xuan-bu-dao-de-cha-yu-jian-kang.md)
 
