@@ -27,5 +27,6 @@
 
 ## 大一至大四课程选择tips
 
-* [第一节 选不到的茶与健康](da-yi-zhi-da-si-ke-cheng-xuan-ze-tips/di-yi-jie-xuan-bu-dao-de-cha-yu-jian-kang.md)
+* [Chap1 选不到的茶与健康](da-yi-zhi-da-si-ke-cheng-xuan-ze-tips/di-yi-jie-xuan-bu-dao-de-cha-yu-jian-kang.md)
+* [Chap2 gtmd大物实验](da-yi-zhi-da-si-ke-cheng-xuan-ze-tips/chap2-gtmd-da-wu-shi-yan.md)
 
