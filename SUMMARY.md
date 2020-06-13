@@ -21,6 +21,7 @@
 ## 毕业出路
 
 * [出国（境）](bi-ye-chu-lu/chu-guo/README.md)
+  * [欧陆（瑞士）](bi-ye-chu-lu/chu-guo/ou-lu-rui-shi.md)
   * [GRE考试准备](bi-ye-chu-lu/chu-guo/gre-kao-shi-zhun-bei/README.md)
     * [notegeek](bi-ye-chu-lu/chu-guo/gre-kao-shi-zhun-bei/notegeek.md)
     * [霁儿](bi-ye-chu-lu/chu-guo/gre-kao-shi-zhun-bei/ji-er.md)
