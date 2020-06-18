@@ -40,7 +40,6 @@
       * [GRE考试准备](bi-ye-chu-lu/chu-guo/shen-qing-qian/ying-yu-kao-shi/gre-kao-shi-zhun-bei/README.md)
         * [notegeek](bi-ye-chu-lu/chu-guo/shen-qing-qian/ying-yu-kao-shi/gre-kao-shi-zhun-bei/notegeek.md)
         * [霁儿](bi-ye-chu-lu/chu-guo/shen-qing-qian/ying-yu-kao-shi/gre-kao-shi-zhun-bei/ji-er.md)
-        * [另一个投稿者](bi-ye-chu-lu/chu-guo/shen-qing-qian/ying-yu-kao-shi/gre-kao-shi-zhun-bei/ling-yi-ge-tou-gao-zhe.md)
       * [TOEFL考试准备](bi-ye-chu-lu/chu-guo/shen-qing-qian/ying-yu-kao-shi/toefl-kao-shi-zhun-bei.md)
       * [IELTS考试准备](bi-ye-chu-lu/chu-guo/shen-qing-qian/ying-yu-kao-shi/ielts-kao-shi-zhun-bei.md)
     * [中介](bi-ye-chu-lu/chu-guo/shen-qing-qian/zhong-jie.md)
