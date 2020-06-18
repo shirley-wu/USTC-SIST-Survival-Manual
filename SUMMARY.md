@@ -51,6 +51,7 @@
       * [简历](bi-ye-chu-lu/chu-guo/shen-qing-ji/wen-shu-zhun-bei/jian-li.md)
       * [Statement of Purpose](bi-ye-chu-lu/chu-guo/shen-qing-ji/wen-shu-zhun-bei/statement-of-purpose.md)
       * [推荐信](bi-ye-chu-lu/chu-guo/shen-qing-ji/wen-shu-zhun-bei/tui-jian-xin.md)
+    * [PhD面试](bi-ye-chu-lu/chu-guo/shen-qing-ji/phd-mian-shi.md)
   * [备选方案](bi-ye-chu-lu/chu-guo/bei-xuan-fang-an/README.md)
     * [Gap](bi-ye-chu-lu/chu-guo/bei-xuan-fang-an/gap.md)
     * [Research-oriented MS作为PhD跳板](bi-ye-chu-lu/chu-guo/bei-xuan-fang-an/researchoriented-ms-zuo-wei-phd-tiao-ban.md)
